@@ -1,6 +1,29 @@
----
-theme :
-  name : twitter
----
-{% include JB/setup %}
-{% include themes/twitter/default.html %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+	<!-- Le styles -->
+	{% include stylesheets.html %}
+  </head>
+  <body data-spy="scroll" data-target=".subnav" data-offset="50">
+	{% include navigation.html %}  
+	<div class="container">	
+		<div class="marketing">
+		{{ content }}
+		</div>
+		 {% include footer.html %}
+	 </div>    
+	
+	<!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+	{% include javascript.html %}
+	
+	{% include discus.html %}
+	{% include analytics.html %}
+  </body>
+</html>
