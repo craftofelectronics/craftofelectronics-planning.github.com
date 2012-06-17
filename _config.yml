@@ -4,7 +4,7 @@ pygments: true
 permalink: /blog/:title
 
 organization: craftofelectronics
-repos: tad265f12
+repos:
 
 pages_root: http://craftofelectronics.github.com/
 github_root: https://github.com/craftofelectronics/
@@ -13,7 +13,7 @@ github_root: https://github.com/craftofelectronics/
 
 course: Craft of Electronics
 course_abbrev: CRAFToE
-sections: ["Admin", "To Do"]
+sections: ["Labs", "Join Us"]
 
 license_url: http://creativecommons.org/licenses/by/3.0/
 license_abbrev: CC BY-SA 3.0

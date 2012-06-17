@@ -7,7 +7,7 @@ jQuery(document).ready(function() {
 	//$('#uq').text('Unanswered Questions');
 	//$('#due-dates').text('Due Dates');
 	
-	JSONP( 'https://api.github.com/repos/{{ site.organization }}/{{ site.repos }}/issues?callback=?', function( response ) {
+	JSONP( 'https://api.github.com/repos/{{ site.organization }}/{{ site.repos }}issues?callback=?', function( response ) {
 		var data = response.data;
 		var num = data.length
 		
@@ -22,7 +22,7 @@ jQuery(document).ready(function() {
 		
 		var s = $('<span class="badge ' + color + '"></span>');
 		var a = jQuery('<a></a>', {
-			href : "https://github.com/{{ site.organization }}/{{ site.repos }}/issues?&state=open",
+			href : "https://github.com/{{ site.organization }}/{{ site.repos }}issues?&state=open",
 			style : "color:#fff;",
 			title : data.length,
 			text : data.length });
@@ -32,7 +32,7 @@ jQuery(document).ready(function() {
 	});
 
 	
-	JSONP( 'https://api.github.com/repos/{{ site.organization }}/{{ site.repos }}/milestones?callback=?', function( response ) {
+	JSONP( 'https://api.github.com/repos/{{ site.organization }}/{{ site.repos }}milestones?callback=?', function( response ) {
 		var data = response.data;
 		var tab = $('#dashboard');
 		
@@ -43,7 +43,7 @@ jQuery(document).ready(function() {
 			var tdl = $('<td></td>');
 			var tdr = $('<td style="text-align:right;"></td>');
 			a = jQuery('<a/>', {
-				href : "https://github.com/{{ site.organization }}/{{ site.repos }}/issues/milestones",
+				href : "https://github.com/{{ site.organization }}/{{ site.repos }}issues/milestones",
 				title : data[i].title,
 				text : data[i].title });
 			tdl.append(a);

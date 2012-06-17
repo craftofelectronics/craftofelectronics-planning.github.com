@@ -2,8 +2,6 @@
 layout: page
 title: Make. Measure. Learn.
 ---
-{% include JB/setup %}
-
 <div class="row">
 	
 <div class="span6">
