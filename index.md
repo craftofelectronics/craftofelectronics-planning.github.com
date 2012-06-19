@@ -1,17 +1,12 @@
 ---
-layout: page
+layout: homepage
 title: Make. Measure. Learn.
 ---
 <div class="row">
 	
 <div class="span6">
-		
-<div class="well">
-<h2>Welcome to (the) Craft of Electronics!</h2>
 
-<p>We're creating a world where it's possible for students to learn college-level electronics in a craft-first (and theory-sometime-later) format, through learning from, participating in, and contributing to the open hardware movement.</p>
-</div>
-
+<h2>Blog</h2>
 <!-- Blog Posts go here -->
 	{% for post in site.posts %}	
 		  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -23,7 +18,12 @@ title: Make. Measure. Learn.
 
 <div class="span5 offset1">
 
-<h2>Tweets!</h2>
+<h2>Tweets</h2>
+<!-- Set site.twitter to false if not desired -->
+{% if site.twitter %}
+<h2><a href="https://twitter.com/#!/{{ site.twitter }}">@{{ site.twitter }}</a></h2>
+<div class="tweet"></div>
+{% endif %}
 
 </div> <!-- span5 -->
 </div> <!-- row -->
