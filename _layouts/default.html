@@ -25,5 +25,9 @@
 	
 	{% include discus.html %}
 	{% include analytics.html %}
+    <!-- Include the course twitter feed, if there is one. -->
+    {% if site.twitter %}
+            {% include twitter.html %}
+    {% endif %}
   </body>
 </html>

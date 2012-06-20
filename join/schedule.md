@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: centerpage
 title: "Schedule"
 group: "Join Us"
 ---
@@ -7,23 +7,25 @@ group: "Join Us"
 	
 <h2>The Schedule</h2>
 
-<p>
-<span class="label label-info">June 2012</span> <br/>
-Infrastructure rollout, planning.</br>
-</p>
+### June 2012
 
-<p><span class="label label-info">July 2012</span> <br/>
-The West-To-East scout ship. A tour through the Makerspaces of America. <br/>
-</p>
+Infrastructure rollout, planning, and core design.
 
-<p><span class="label label-info">July 2012</span> <br/>
-The East-To-West scout ship. A tour of engineering colleges. <br/>
-</p>
+### July 2012
 
-<p><span class="label label-info">July 2012</span> <br/>
-Mission Control. Curricular remixing and testing. <br/>
-</p>
+The West-To-East scout ship. A tour through the Makerspaces of America.
 
-<p><span class="label label-info">August 2012</span> <br/>
-Write-up and wrap-up. <br/>
-</p>
+### July 2012 
+
+The East-To-West scout ship. A tour of engineering colleges. 
+
+### July 2012
+Mission Control. Curricular remixing and testing. 
+
+### August 2012
+
+Write-up and wrap-up. 
+
+### September 2012
+
+Release 0.
