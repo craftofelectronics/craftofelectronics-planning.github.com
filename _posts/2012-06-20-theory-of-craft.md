@@ -41,7 +41,7 @@ Coming up and agreeing upon terms that could sit between these pairs was difficu
 
 ![Theory][theory]
 
-The mapping above represents our initial approach to a theory of craft-based electronics. We decided against explicitly using the term **craft** in the map, since we were trying to define the term itself while approaching the learning outcomes for our course.
+The mapping above represents our initial approach to a theory of craft-based electronics. We decided against explicitly using the term **craft** in the map, since we were trying to define the term itself while approaching the learning outcomes for our course. In any case, it looks like we might have a framework for thinking about all this stuff now. So stay tuned for what's going to happen tomorrow.
 
 [etherpad]: http://openetherpad.org/craftoe-projects
 [conceptmap]: https://p.twimg.com/Av1-rbSCIAAKHQF.jpg:large
