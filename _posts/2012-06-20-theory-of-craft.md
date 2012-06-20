@@ -13,11 +13,13 @@ tags :
 
 # Lots of Concept Maps
 
+This post is a recap of work in progress; we are (so far) improvising much of what we're doing, so the notes should be taken in that vein. Think of it as a transcript from an improv session rather than a polished essay on fully-baked thoughts at this point.
+
 ## Initial Questions
 
-*What are the learning objectives for a craft-first course in a given context?*
+*What are the learning objectives for a craft-first course in the context of Berea College?*
 
-This may be the question we've been trying to answer over the past couple of days. Hence, we looked at existing projects at the intersection of computing, craft, and electronics. A list of projects is available [here][etherpad]. The skills necessary to successfully complete these projects lead us towards identifying learning objectives.
+This is the question we've been trying to answer over the past couple of days. Hence, we looked at existing projects at the intersection of computing, craft, and electronics. A list of projects is available [here][etherpad]. The skills necessary to successfully complete these projects lead us towards identifying learning objectives.
 
 ## Bloom is Everywhere
 
@@ -39,10 +41,10 @@ Coming up and agreeing upon terms that could sit between these pairs was difficu
 
 ![Theory][theory]
 
-The mapping above represents our initial approach to a theory of craft-based electronics. We decided against explicitely using the term **craft** in the map, since we were trying to define the term itself while approaching the learning outcomes for our course.
+The mapping above represents our initial approach to a theory of craft-based electronics. We decided against explicitly using the term **craft** in the map, since we were trying to define the term itself while approaching the learning outcomes for our course.
 
 [etherpad]: http://openetherpad.org/craftoe-projects
-[conceptmap]: https://twitter.com/craftoe/status/215467641702326274/photo/1/large
+[conceptmap]: https://p.twimg.com/Av1-rbSCIAAKHQF.jpg:large
 [bloom]: http://en.wikipedia.org/wiki/Bloom%27s_Taxonomy
-[summary]: https://twitter.com/craftoe/status/215470012176138241/photo/1/large
-[theory]: https://twitter.com/craftoe/status/215520362660769792/photo/1/large
+[summary]: https://p.twimg.com/Av2A1aACAAMXAbI.jpg:large
+[theory]: https://p.twimg.com/Av2uoMKCMAEIer2.jpg:large
