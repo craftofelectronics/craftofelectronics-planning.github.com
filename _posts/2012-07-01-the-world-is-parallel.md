@@ -13,7 +13,7 @@ tags :
  - transterpreter
 ---
 
-A first course in electricity does not necessarily need to touch on programming. In fact, a first course in electronics does not, either... especially if you 1) stay strictly in the analog realm, or 2) branch into the digital realm, but completely avoid the microcontroller. Both of these options sound lame, though.
+A first course in electricity does not necessarily need to touch on programming. In fact, a first course in electronics does not, either... especially if you 1) stay strictly in the analog realm, or 2) branch into the digital realm, but completely avoid the microcontroller. As a computer scientist (and, more importantly, someone who likes to make cool stuff that interacts with the world), it is hard to imagine leaving out the microcontroller when digital electronics.
 
 An introduction to electricity and electronics that grounds students in the safe design and fabrication of electronics for themselves (not for industrial-scale mass-manufacturing) is going to need a microcontroller. And while the Arduino is wonderful, the fact is that I simply do not want to teach someone C++ so that they can get a simple digital electronics system up and running. Likewise, most visual tools (Ardublocks and the like) don't handle doing two things "at the same time" well at all.
 
