@@ -16,7 +16,7 @@ Learning objectives have been the next big thing on the agenda. Since the theory
 
 The term *design* can be applied in a lot of ways: there's circuit & breadboard design (including best practices like avoiding crossed wires) on the one side, and a full-blown user-oriented design approach that takes the needs of a target audience into account on the other. Now this is an introduction to electronics, not a user-centered collaborative design course. That said, talking through the steps of user-centered design let us identify the most important parts of it to come up with a simplified model that we could apply to this course as well.
 
-## UOCD for Dummies?
+## A Modified Design Process
 
 *There's a good chance that I'll draw this diagram out on a whiteboard tomorrow and upload a picture here.*
 
