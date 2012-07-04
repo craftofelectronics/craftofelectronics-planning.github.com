@@ -51,7 +51,7 @@ However, a simple, visual environment for describing parallel-safe dataflows is 
 
 # Contributing
 
-If you're interested in this project, ping us on Twitter or join our Google Group and introduce yourself. 
+If you're interested in this project, ping <a href="http://twitter.com/#!/concurrencycc/">concurrencycc</a> on Twitter, join a concurrency.cc <a href="http://concurrency.cc/docs/mailinglists.html">mailing list</a> (developers or users, as you see fit), or (if you're interested in the craft of electronics project), join the <a href="">CRAFToE Google Group</a> and introduce yourself.
 
 1. The backend (running on the Arduino) requires no work---packaging, maybe. Scripting the execution of the compiler, yes. But no hard or otherwise fundamental effort is required.
 1. The frontend (GUI) may need a complete redesign. But, there's a lot of good material to work with, and someone whizzy with JavaScript and CSS could easily do a lot to improve what is there.
