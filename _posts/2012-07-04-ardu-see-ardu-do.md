@@ -33,8 +33,10 @@ That said, there's a catch. To do this, you have to learn how to program in occa
 
 Over the past week or two, I've hacked together a prototype system that lets a user drag-and-drop blocks of functionality around, wire them up, and send the resulting program to the Arduino. This short video explains in pictures better than I can in words:
 
+<!-- http://youtu.be/hdZys5dUxEQ -->
+
 <div align="center">
-<iframe width="640" height="360" src="http://www.youtube.com/embed/ejzbrOroHTw" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/hdZys5dUxEQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 I will admit, I'm not keen on the name, so suggestions are welcome. But, I am **very, very excited** about the possibilities here. While tools like <a href="http://blog.ardublock.com/">Ardublocks</a> and <a href="http://www.modk.it/">Modkit</a> are cool, they still require you to think *sequentially* about systems that are fundamentally *realtime and parallel*. A dataflow environment lets you think about where data enters your system, how you want to modify it, and what you want to do with it when you're done---be that turning on an indicator LED, running a motor, or posting data to a web service. In short, a dataflow language makes it easy to have a Sense-Think-Act cycle, and a parallel-safe language makes it easy to have many small cycles working together.
