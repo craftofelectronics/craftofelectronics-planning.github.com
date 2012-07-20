@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Design Bounty: We Need a Logo
+title : Design Bounty (We Need a Logo)
 summary : Looking for a new logo for the project.
 category : software
 author : Sebastian Dziallas
