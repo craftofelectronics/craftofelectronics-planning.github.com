@@ -23,12 +23,12 @@ Help us out with a new logo! We promise we won't be picky, but it needs to meet 
 
 And here's what's in for you: we said "engraved in wood" above. That's right, at Berea, we have access to a machine shop including a laser cutter. So if we chose your design, you'll receive:
 
-* the gratitude of the entire team (@jadudm, @mchua, @sdziallas)
+* the gratitude of the entire team ([@jadudm](https://twitter.com/jadudm), [@mchua](https://twitter.com/mchua), [@sdziallas](https://twitter.com/sdziallas))
 * a t-shirt with the logo on it -- we'll be making these for us and get you one as well
 * a wooden plate with the logo engraved for you to put on your desk (or your mug on, if you're so inclined)
 
-If you're up for the challenge, you can email us on the [mailing list][list] -- please do so by *Wednesday, July 25*.
+If you're up for the challenge, you can email us on the [mailing list][list].
 
-[main][http://www.craftofelectronics.org]
-[twitter][https://twitter.com/craftoe]
-[list][http://groups.google.com/group/craftofelectronics].
+[main]: http://www.craftofelectronics.org
+[twitter]: https://twitter.com/craftoe
+[list]: http://groups.google.com/group/craftofelectronics
