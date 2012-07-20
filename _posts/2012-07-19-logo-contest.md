@@ -1,11 +1,11 @@
 ---
 layout: post
-title : Craft of Electronics Design Bounty: We Need a Logo!
-summary : Looking for a new logo for the project; hoping for your input.
+title : Design Bounty: We Need a Logo
+summary : Looking for a new logo for the project.
 category : software
 author : Sebastian Dziallas
 
-tags : 
+tags :
  - designprocess
 ---
 
