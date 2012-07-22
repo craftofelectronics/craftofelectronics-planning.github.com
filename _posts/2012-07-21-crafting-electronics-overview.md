@@ -43,9 +43,7 @@ Over the past six weeks, I brought together a collection of high- and low-level 
 This short video demonstrates better than I can describe:
 
 <div align="center">
-<!--
 <iframe width="640" height="360" src="http://www.youtube.com/embed/hdZys5dUxEQ" frameborder="0" allowfullscreen></iframe>
--->
 </div>
 
 We are confident this environment will allow students to quickly and easily explore new ideas in digital electronics without us having to teach them how to write code. Although environments like ArduBlocks and Modkit are compelling, they still require students to master sequential, C-style programming. We want something lighter, faster, yet more powerful.
